@@ -22,5 +22,5 @@
 ---
 
 - GitHub: [github.com/C130AIR](https://github.com/C130AIR)
-- X: [@leclerr8vg](https://x.com/leclerr8vg)
+- X: [@ImJustC130AIR](https://x.com/ImJustC130AIR)
 - Email: [kjinlin0917@iCloud.com](mailto:kjinlin0917@iCloud.com)

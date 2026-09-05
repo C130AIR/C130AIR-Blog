@@ -65,7 +65,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "X",
 			icon: "fa6-brands:x-twitter",
-			url: "https://x.com/leclerr8vg",
+			url: "https://x.com/ImJustC130AIR",
 		},
 		{
 			name: "Email",
